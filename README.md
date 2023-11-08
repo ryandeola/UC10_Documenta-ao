@@ -7,3 +7,7 @@
 **Professor:** Ricardo Pereira
 
 **Comentarios:** A aula está sendo muito boa, as explicações também muito boas, estou conseguindo entender bem as aulas e aprendendo bastante sobre o git.
+
+**Conhecimentos:**
+
+[Comando git](COMANDOS_GIT.md)
