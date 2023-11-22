@@ -11,8 +11,9 @@
   * `git status`
  ***
    **GIT REMOTE ADD**
-    * Adiciona alterações feita nos arquivos a uma área temporária.
-    * `git add main.js`
+   
+   * Adiciona alterações feita nos arquivos a uma área temporária.
+   * `git add main.js`
   ***
   **GIT COMMIT**
 
