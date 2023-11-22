@@ -13,7 +13,7 @@
    **GIT REMOTE ADD**
 
     * Adiciona alterações feita nos arquivos a uma área temporária.
-    * git add main.js
+    * `git add main.js`
   ***
   **GIT COMMIT**
 
@@ -23,16 +23,16 @@
 **GIT CONFIG**
 
 * Setar o email.
-* git config --global user.email "email"
+* `git config --global user.email "email"`
 * Setar o nome
-* git config --global user.name "name"
+* `git config --global user.name "name"`
 ***
 **GIT CLONE**
 * Clona um repositório online para a maquina de trabalho.
-* git clone url
+* `git clone url`
 ***
 **GIT PULL**
 * Busca e intera com outro repositório ou branch local.
-* git pull
+* `git pull`
    
       
