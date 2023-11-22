@@ -11,3 +11,4 @@
 **Conhecimentos:**
 
 [Comando git](COMANDOS_GIT.md)
+[Python](PYTHON.md)
